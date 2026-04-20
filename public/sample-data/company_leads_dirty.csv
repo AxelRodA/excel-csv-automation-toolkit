@@ -1,0 +1,14 @@
+Company Name,Contact Email,Lead Source,Annual Spend,Region,Last Contacted
+" Acme Corp ",ops@acme.example,Web Form," 12400 ",North America,2026-01-08
+"Acme Corporation",ops@acme.example,Web Form,"12400",North America,2026-01-08
+"Globex LLC",sales@globex.example,Trade Show,"7800 ",EMEA,2026-01-11
+"globex corp.",sales@globex.example,Trade Show,"7800",EMEA,2026-01-11
+"Ini Tech",it@initech.example,Partner Referral," 14600",North America,2026-01-15
+"Initech Limited",it@initech.example,Partner Referral,"14600",North America,2026-01-15
+"Soylent Co",buyer@soylent.example,CSV Import," 9200",APAC,2026-01-20
+"Soylent Industries LLC",buyer@soylent.example,CSV Import,"9200",APAC,2026-01-20
+"Umbrella Health Group",ops@umbrella.example,Manual Entry,"21100",EMEA,2026-02-01
+"Umbra Health",ops@umbrella.example,Manual Entry,"21100",EMEA,2026-02-01
+"Stark Ind",procurement@stark.example,Web Form,"54000",North America,2026-02-06
+"Wayne Ent.",finance@wayne.example,Trade Show,"38500",North America,2026-02-08
+"W Enterprises",finance@wayne.example,Trade Show,"38500",North America,2026-02-08

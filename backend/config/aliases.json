@@ -1,0 +1,9 @@
+{
+  "Acme Corporation": ["acme corp", "acme co", "acme incorporated", "acme, inc.", "acme inc"],
+  "Globex": ["globex llc", "globex corporation", "globex corp.", "globex co"],
+  "Initech": ["initech ltd", "initech limited", "ini tech", "initech, llc"],
+  "Soylent Industries": ["soylent corp", "soylent co", "soylent industries llc"],
+  "Umbrella Health": ["umbrella corp", "umbrella corporation", "umbrella health group"],
+  "Stark Industries": ["stark ind", "stark industries inc", "stark enterprise"],
+  "Wayne Enterprises": ["wayne enterprise", "wayne enterprises inc", "wayne ent."]
+}
